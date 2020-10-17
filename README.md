@@ -24,14 +24,14 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working in [Crest Data Systems](https://www.crestdatasys.com/)
-- 🌱 I’m currently learning Cloud computing & Data analytics
-- 👯 I’m looking to collaborate on Open-spurce Projects
-- 🤔 I’m looking for help with GCP Docs
-- 💬 Ask me about Web Development or Any Tech related stuff
-- 📫 How to reach me: [Twitter -@Karan_2025](https://twitter.com/Karan_2025)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I do lot of stuff and listens Music!
+- 🔭 I’m currently working in **[Crest Data Systems](https://www.crestdatasys.com/)**
+- 🌱 I’m currently learning **Cloud computing & Data analytics**
+- 👯 I’m looking to collaborate on **Open-spurce Projects**
+- 🤔 I’m looking for help with **GCP Docs**
+- 💬 Ask me about **Web Development or Any Tech related stuff**
+- 📫 How to reach me: **karanrohit121@gmail.com**
+- 😄 Pronouns: **He/His**
+- ⚡ Fun fact: **I do lot of stuff and listens Music!**
 
 [![Twitter: Karan_2025](https://img.shields.io/twitter/follow/Karan_2025?style=social)](https://twitter.com/Karan_2025)
 [![Linkedin: karan-rohit-56714613a](https://img.shields.io/badge/-KaranGRohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karan-rohit-56714613a/)](https://www.linkedin.com/in/karan-rohit-56714613a/)
