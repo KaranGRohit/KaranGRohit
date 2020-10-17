@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Rohit</h1>
-<h3 align="center">Highly motivated & skilled Computer Engineer with a passion for building world-class software solutions for organizations. I take problems as challenges and try to solve them using technology. My area of interest is Cloud Computing and Data analytics and I want to help industries in scaling their businesses using the power of Cloud services. I am a quick learner and have strong leadership skills.</h3>
+<h3 align="center">Highly motivated & skilled Computer Engineer with a passion for building world-class software solutions for organizations. I take problems as challenges and try to solve them using technology. My area of interest is Cloud Computing and Data analytics and I want to help industries in scaling their businesses using the power of Cloud services. I am a quick learner and have strong Communication skills.</h3>
 
 <br/>
 
