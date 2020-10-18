@@ -68,12 +68,7 @@
 <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> **My GitHub Stats:** 
 <br/>
 <br/>
-<a href="https://github.com/KaranGRohit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGRohit&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/KaranGRohit">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KaranGRohit&show_icons=true&theme=light&line_height=27" alt="Karan's github stats"/>
-</a>
+![Karan's github stats](https://github-readme-stats.vercel.app/api?username=KaranGRohit&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranGRohit&&theme=radical&show_icons=true&&layout=compact)](https://github.com/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
