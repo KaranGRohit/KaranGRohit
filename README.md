@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working in **[Crest Data Systems](https://www.crestdatasys.com/)**
 - 🌱 I’m currently learning **Cloud computing & Data analytics**
-- 👯 I’m looking to collaborate on **Open-spurce Projects**
+- 👯 I’m looking to collaborate on **Open-source Projects**
 - 🤔 I’m looking for help with **GCP Docs**
 - 💬 Ask me about **Web Development or Any Tech related stuff**
 - 📫 How to reach me: **karanrohit121@gmail.com**
