@@ -32,11 +32,11 @@
 <br/>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> little more about me...
 
-- 🔭 I’m currently working on **ML & Data Science**
-- 🌱 I’m currently learning **Cloud computing & Data analytics**
+- 🔭 I’m currently working on **Cloud**
+- 🌱 I’m currently learning **ML & Data analytics**
 - 👯 I’m looking to collaborate on **Open-source Projects**
 - 🤔 I’m looking for help with **GCP Docs**
-- 💬 Ask me about **Web Development or Any Tech related stuff**
+- 💬 Ask me about **Cloud, Web Development or Any Tech related stuff**
 - 📫 How to reach me: **karanrohit121@gmail.com**
 - 😄 Pronouns: **He/His**
 - ⚡ Fun fact: **I do lot of stuff and listens Music!**
