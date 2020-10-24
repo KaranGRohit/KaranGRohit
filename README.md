@@ -32,7 +32,7 @@
 <br/>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> little more about me...
 
-- 🔭 I’m currently working on **Cloud**
+- 🔭 I’m currently working on **CloudOps**
 - 🌱 I’m currently learning **ML & Data analytics**
 - 👯 I’m looking to collaborate on **Open-source Projects**
 - 🤔 I’m looking for help with **GCP Docs**
