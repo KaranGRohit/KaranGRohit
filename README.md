@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, I'm Karan Rohit</h1>
 
-<p><em>Gradute of <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Graduted from <a href="https://www.ddu.ac.in/">Dharmsinh Desai University</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   <br/>
 
 <h3 align="center">Highly motivated & skilled Computer Science Engineer with a passion for building world-class software solutions for organizations. I take problems as challenges and try to solve them using technology. My area of interest is Cloud Computing and Data analytics and I want to help industries in scaling their businesses using the power of Cloud services. I am a quick learner, a Great Networker, Curious and Intelligent Smart working Professional and have Good Communication skills.</h3>
